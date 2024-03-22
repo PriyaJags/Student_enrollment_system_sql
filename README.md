@@ -1,4 +1,4 @@
-# Student_enrollment_system_sql
+# Student enrollment system using Mysql
 This is a student enrollment system , using Mysql 
 
 This repository contains SQL scripts to create tables for a student enrollment system. 
