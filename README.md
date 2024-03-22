@@ -1,6 +1,9 @@
 # Student_enrollment_system_sql
 This is a student enrollment system , using Mysql 
-This repository contains SQL scripts to create tables for a student enrollment system. The system consists of the following tables:
+
+This repository contains SQL scripts to create tables for a student enrollment system. 
+
+The system consists of the following tables:
 
 STUDENT TABLE:
 studentId,
