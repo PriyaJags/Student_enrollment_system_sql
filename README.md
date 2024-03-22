@@ -45,9 +45,7 @@ PERFORM THESE QUERIES
 5. display the student based on no max course they purchased
 6. rank for that student based on course fees
 
-# Project 2 - Given stored data link
-
-queries need to be performed for STORE DATA:
+# Project 2 - Given stored data link- queries need to be performed for STORE DATA:
 
 STORE DATA needs to be imported ffrom this EXCEL:
 
